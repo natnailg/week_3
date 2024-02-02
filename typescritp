@@ -1,0 +1,6 @@
+types script
+- it is a superset of javascript that adds a type system. 
+- in java or c we have to declare variables a specific type. 
+- in js we use let or const when declaring without specifing what type it will return 
+type is not natively by itself, you have tranpile it into vanilla javascript before we can tun in a browser or a node, wehere ever the runtim is.
+
